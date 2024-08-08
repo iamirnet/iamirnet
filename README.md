@@ -13,6 +13,8 @@
 
 - 🤝 I’m cooperation with the [Iranian Red Crescent Society](https://en.rcs.ir)
 
+- 🌱 I’m currently holding competitions in the field of computer engineering with [NSR](https://contest.nsr.org.ir)
+
 - 🌱 I’m currently learning **Go Lang**
 
 - 👯 I’m looking to collaborate on [BPX](https://bpxexchange.com)
